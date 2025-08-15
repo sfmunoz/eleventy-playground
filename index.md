@@ -1,0 +1,4 @@
+---
+title: index.md
+---
+# {{ title }}
